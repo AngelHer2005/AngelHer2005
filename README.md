@@ -47,7 +47,7 @@
 
 # **Extra Information**:
 #### I'm new to this field, but rest assured that this profile will be _updated_.
-![parrot](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/parrot.gif)
+<p align="center"><img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/parrot.gif" alt="Dancing Parrot")/></p>
 
 <h4 align="center">Visitor's count:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{AngelHer2005}/count.svg" alt="Angel Visitor's Count" /></p>
