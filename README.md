@@ -45,15 +45,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AngelHer2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AngelHer2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelHer2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AngelHer2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=AngelHer2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
