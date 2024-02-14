@@ -16,6 +16,13 @@
 
 **País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
+# **Redes Sociales**:
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=facebook&logoColor=white">
+<a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
 
 # **Lenguajes que domino**:
 
@@ -39,4 +46,4 @@
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
 
 # **Dato extra**:
-#### Soy nuevo en este ámbito, no dudes que este perfil se _actualizará_.
+#### Soy nuevo en este ámbito, no dudes de que este perfil se _actualizará_.
