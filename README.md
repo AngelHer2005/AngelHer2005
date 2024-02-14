@@ -45,16 +45,13 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
 
----
-
+<br>
 # **📖 Extra Information**:
 #### I'm new to this field, but rest assured that this profile will be **_updated_**.
 <p align="center"><img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/parrot.gif" alt="Dancing Parrot")/></p>
 
 <h4 align="center">Visitor's count:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{AngelHer2005}/count.svg" alt="Angel Visitor's Count" /></p>
-
-<br>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&random=false&width=435&lines=Good+Bye+Friend!+%F0%9F%91%8B+" alt="GoodBye"/></p>
 
