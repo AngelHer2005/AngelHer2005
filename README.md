@@ -1,4 +1,4 @@
-<h1 style="color:green; text-align: center; font-weight: bold;">BIENVENIDO A MI PERFIL, AMIGO</h1>
+<h1 style="text-align: center; font-weight: bold;">BIENVENIDO A MI PERFIL, AMIGO</h1>
 
 ![Banner](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Banner.gif)
 
