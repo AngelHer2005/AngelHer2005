@@ -47,6 +47,7 @@
 
 <br>
 # **📖 Extra Information**:
+
 #### I'm new to this field, but rest assured that this profile will be **_updated_**.
 <p align="center"><img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/parrot.gif" alt="Dancing Parrot")/></p>
 
