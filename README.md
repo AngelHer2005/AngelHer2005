@@ -9,7 +9,7 @@
 
 **Idiomas**: Inglés 50% 
 
-**Edad**: 18 años
+**Edad**: 18 años🇵🇪
 
 **Educación Académica**: Instituto SENATI - 3°Ciclo
 
