@@ -28,9 +28,9 @@
 
 ![Lenguajes](https://skillicons.dev/icons?i=python,js,java)
 
-# **Front-End Development**:
+# **Front-End Development and DataBases**:
 
-![Front-End](https://skillicons.dev/icons?i=html,css,js)
+![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql)
 
 # **Tools and Technologies**:
 
