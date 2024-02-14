@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Banner.gif)
 
-<span><b>Sobre mí</b></spam> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="width = 50px">
+<span><b>Sobre mí</b></spam> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
 <span style="color:crimson; font-size:1.3em; font-weight:bold;">Nombre:</span> Ángel Hernán Alberto patricio Arroyo
 
