@@ -4,7 +4,7 @@
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px> **Sobre Mí** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
-<span style="color:crimson; font-size:1.3em; font-weight:bold;">Nombre:</span> Ángel Hernán Alberto patricio Arroyo
+## **Nombre**: # Ángel Hernán Alberto patricio Arroyo
 
 <span style="color:crimson; font-size:1.3em; font-weight:bold;">Carrera:</span> Ingeniería de Software con Ingeligencia Artificial
 
