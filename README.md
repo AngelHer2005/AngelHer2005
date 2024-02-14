@@ -17,27 +17,26 @@
 **País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
 
-<p style="color: yellow; font-size: 2em; font-weight: bold;">Lenguajes que domino:</p>
+# **Lenguajes que domino**:
 
 ![Lenguajes](https://skillicons.dev/icons?i=python,js,java)
 
-<p style="color: orange; font-size: 2em; font-weight: bold;">Front-End Development:</p>
+# **Front-End Development**:
 
 ![Front-End](https://skillicons.dev/icons?i=html,css,js)
 
-<p style="color: dodgerblue; font-size: 2em; font-weight: bold;">Herramientas y Tecnologías:</p>
+# **Herramientas y Tecnologías**:
 
 ![VSCode](https://skillicons.dev/icons?i=vscode,github,git)
 
-<p style="color: green; font-size: 2em; font-weight: bold;">Frameworks:</p>
+# **Frameworks**:
 
 ![Django](https://skillicons.dev/icons?i=django)
 
-<p style="color: white; font-size: 2em; font-weight: bold;">Otras tecnologías que conozco:</p>
+# **Otras tecnologías que conozco**:
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![MarkDown]()
 
-<br>
-<span style="color: darkorchid; font-size: 2.5em; font-weight: bold;">Dato extra:</span>
-<p style="color: peru; font-size: 1.3em; font-weight: bold;">Soy nuevo en este ámbito, no dudes que este perfil se actualizará.</
+## **Dato extra**:
+#### Soy nuevo en este ámbito, no dudes que este perfil se _actualizará_.
