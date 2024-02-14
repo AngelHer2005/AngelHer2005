@@ -49,5 +49,4 @@
 #### Soy nuevo en este ámbito, no dudes de que este perfil se _actualizará_.
 
 <h4 align="center">Visitor's count:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AngelHer2005}/count.svg alt="Angel Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{AngelHer2005}/count.svg" alt="Angel Visitor's Count" /></p>
