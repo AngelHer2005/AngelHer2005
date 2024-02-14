@@ -51,3 +51,7 @@
 
 <h4 align="center">Visitor's count:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{AngelHer2005}/count.svg" alt="Angel Visitor's Count" /></p>
+
+<br>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&random=false&width=435&lines=Good+Bye+Friend!+%F0%9F%91%8B+" alt="GoodBye" /></p>
