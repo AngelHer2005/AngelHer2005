@@ -14,7 +14,7 @@
 
 **Educación Académica**: Instituto SENATI - 3°Ciclo
 
-**País**: Perú 
+**País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/peru.png">
 
 
 <p style="color: yellow; font-size: 2em; font-weight: bold;">Lenguajes que domino:</p>
