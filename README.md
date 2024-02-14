@@ -36,7 +36,7 @@
 # **Otras tecnologías que conozco**:
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-![MarkDown]()
+![MarkDown](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg)
 
 # **Dato extra**:
 #### Soy nuevo en este ámbito, no dudes que este perfil se _actualizará_.
