@@ -1,5 +1,5 @@
 ![Banner](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Banner.gif)
-
+---
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px> **About Me** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
 **Name**:  Ángel Hernán Alberto patricio Arroyo
@@ -45,10 +45,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
 
-
-[![](https://visitcount.itsvg.in/api?id=AngelHer2005&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+---
 
 # **📖 Extra Information**:
 #### I'm new to this field, but rest assured that this profile will be **_updated_**.
