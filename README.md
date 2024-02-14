@@ -16,7 +16,7 @@
 
 **País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
-📫 **Contacto**: **angelhernanpatricioarroyo@gmail.com** <img src="https://skillicons.dev/icons?i=gmail">
+📫 **Contacto**: **angelhernanpatricioarroyo@gmail.com** <img src="https://skillicons.dev/icons?i=gmail" width=25px>
 
 # **Redes Sociales**:
 <p align="left">
