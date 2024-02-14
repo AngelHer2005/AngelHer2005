@@ -4,17 +4,17 @@
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px> **Sobre Mí** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
-## **Nombre**: # Ángel Hernán Alberto patricio Arroyo
+**Nombre**:  Ángel Hernán Alberto patricio Arroyo
 
-<span style="color:crimson; font-size:1.3em; font-weight:bold;">Carrera:</span> Ingeniería de Software con Ingeligencia Artificial
+**Carrera**: Ingeniería de Software con Ingeligencia Artificial
 
-<span style="color:crimson; font-size:1.3em; font-weight:bold;">Idiomas:</span> Inglés 50% 
+**Idiomas**: Inglés 50% 
 
-<span style="color:crimson; font-size:1.3em; font-weight:bold;">Edad:</span> 18 años
+**Edad**: 18 años
 
-<span style="color:crimson; font-size:1.3em; font-weight:bold;">Educación Académica:</span> Instituto SENATI - 3°Ciclo
+**Educación Académica**: Instituto SENATI - 3°Ciclo
 
-<span style="color:crimson; font-size:1.3em; font-weight:bold;">País:</span> Perú
+**País**: Perú 
 
 
 <p style="color: yellow; font-size: 2em; font-weight: bold;">Lenguajes que domino:</p>
