@@ -1,5 +1,3 @@
-<h1 align="center"><b>BIENVENIDO A MI PERFIL, AMIGO</b></h1>
-
 ![Banner](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Banner.gif)
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px> **Sobre Mí** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
@@ -49,3 +47,7 @@
 
 # **Dato extra**:
 #### Soy nuevo en este ámbito, no dudes de que este perfil se _actualizará_.
+
+<h4 align="center">Visitor's count:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Angel :: Visitor's Count" /></p>
