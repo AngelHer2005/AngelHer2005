@@ -8,13 +8,13 @@
 
 **Carrera**: Ingeniería de Software con Ingeligencia Artificial
 
-**Idiomas**: Inglés 50% 
-
 **Edad**: 18 años
 
-**Educación Académica**: Instituto SENATI - 3°Ciclo
+**Idiomas**: Inglés 50% 
 
 **País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
+
+**Educación Académica**: Instituto SENATI - 3°Ciclo
 
 📫 **Contacto**: **angelhernanpatricioarroyo@gmail.com** <img src="https://skillicons.dev/icons?i=gmail" width=25px>
 
