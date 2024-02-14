@@ -14,7 +14,7 @@
 
 **Educación Académica**: Instituto SENATI - 3°Ciclo
 
-**País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=50px>
+**País**: Perú <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
 
 # **Lenguajes que domino**:
@@ -36,7 +36,7 @@
 # **Otras tecnologías que conozco**:
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-<img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=5px>
+<img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=50px>
 
 # **Dato extra**:
 #### Soy nuevo en este ámbito, no dudes que este perfil se _actualizará_.
