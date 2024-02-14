@@ -38,5 +38,5 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![MarkDown]()
 
-## **Dato extra**:
+# **Dato extra**:
 #### Soy nuevo en este ámbito, no dudes que este perfil se _actualizará_.
