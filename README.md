@@ -1,6 +1,6 @@
 # BIENVENIDO A MI PERFIL, AMIGO
 
-![Banner](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/banner.gif)
+![Banner](https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Banner.gif)
 
 **Presentación**
 **Nombre**: Ángel Hernán Alberto patricio Arroyo
