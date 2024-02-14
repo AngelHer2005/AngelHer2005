@@ -30,7 +30,7 @@
 
 # **🤖 Front-End Development and DataBases**:
 
-![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql,sql)
+![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql)
 
 # **🔧 Tools and Technologies**:
 
