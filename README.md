@@ -26,7 +26,7 @@
 
 # **🖥️ Programming Languages I Work With**:
 
-![Lenguajes](https://skillicons.dev/icons?i=python,js,java)
+![Lenguajes](https://skillicons.dev/icons?i=python,js,java,php)
 
 # **🤖 Front-End Development and DataBases**:
 
