@@ -31,6 +31,7 @@
 # **🤖 Front-End Development and DataBases**:
 
 ![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql,postgres)
+<img src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width=65px>
 
 # **🔧 Tools and Technologies**:
 
