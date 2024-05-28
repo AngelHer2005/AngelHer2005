@@ -30,7 +30,7 @@
 
 # **🤖 Front-End Development and DataBases**:
 
-![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql)
+![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql,postgres)
 
 # **🔧 Tools and Technologies**:
 
@@ -42,7 +42,7 @@
 
 # **🛠️ Other tools I know**:
 
-![Linux](https://skillicons.dev/icons?i=linux)
+![Linux](https://skillicons.dev/icons?i=linux,linkedin)
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
 
 <br>
