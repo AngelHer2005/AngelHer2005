@@ -12,7 +12,7 @@
 
 **Country**: Peru <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
-**Academic Education**: Institute SENATI - 3°Cycle
+**Academic Education**: Institute SENATI - 4°Cycle
 
 📫 **Contact**: **angelhernanpatricioarroyo@gmail.com** <img src="https://skillicons.dev/icons?i=gmail" width=25px>
 
