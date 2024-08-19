@@ -8,7 +8,7 @@
 
 **Age**: 18 years old
 
-**Languages**: English 50% 
+**Languages**: English 75% 
 
 **Country**: Peru <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
