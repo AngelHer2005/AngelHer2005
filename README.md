@@ -48,9 +48,9 @@
 
 <br>
 
-# ** GITHUB STATS**:
-![AngelHer2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelHer2005&show_icons=true&theme=radical)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelHer2005&&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=400)
+# **GITHUB STATS**:
+![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelHer2005&include_all_commits=true&custom_title=%E2%9A%A1%20BazzerDv%27s%20Github%20Stats&border_color=000000&bg_color=-60,000000,000370,000000&title_color=b026ff&text_color=fefefe&icon_color=b026ff&show_icons=true)
+[![Stats](https://raw.githubusercontent.com/AngelHer2005/github-stats/master/generated/languages.svg)](https://github/com/BazzerDv)
 
 # **📖 Extra Information**:
 
