@@ -48,10 +48,6 @@
 
 <br>
 
-# **GITHUB STATS**:
-![AngelHer2005 GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelHer2005&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelHer2005)](https://github.com/anuraghazra/github-readme-stats)
-
 # **📖 Extra Information**:
 
 #### I'm new to this field, but rest assured that this profile will be **_updated_**.
