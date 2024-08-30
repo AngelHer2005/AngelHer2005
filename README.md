@@ -48,6 +48,9 @@
 
 <br>
 
+# ** GITHUB STATS:
+![AngelHer2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelHer2005&show_icons=true&theme=radical)
+
 # **📖 Extra Information**:
 
 #### I'm new to this field, but rest assured that this profile will be **_updated_**.
