@@ -50,7 +50,7 @@
 
 # ** GITHUB STATS**:
 ![AngelHer2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelHer2005&show_icons=true&theme=radical)
-[![Stats](https://raw.githubusercontent.com/AngelHer2005/github-stats/master/generated/languages.svg)](https://github/com/BazzerDv)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelHer2005&&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=400)
 
 # **📖 Extra Information**:
 
