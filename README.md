@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/angelhernanpatricioarroyo/" target="blank"><img align="center"  src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 # **🖥️ Programming Languages I Work With**:
 
 ![Lenguajes](https://skillicons.dev/icons?i=python,js,java,php)
