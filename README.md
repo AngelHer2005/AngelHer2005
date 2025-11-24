@@ -44,10 +44,6 @@
 
 ![Cloud](https://skillicons.dev/icons?i=aws,azure)
 
-# **🛠️ Other tools I know**:
-
-![Linux](https://skillicons.dev/icons?i=linux,linkedin)
-
 # **🛠️ Tools**
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
