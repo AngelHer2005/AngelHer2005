@@ -37,7 +37,7 @@
 
 # **🗄️ Databases**:
 
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)
 
 # **Cloud & DevOps**:
 
