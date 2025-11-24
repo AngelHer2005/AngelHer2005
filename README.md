@@ -34,7 +34,6 @@
 # **⚙️ Frameworks & Libraries**:
 
 ![Frameworks](https://skillicons.dev/icons?i=react,nestjs,nodejs,express,django,tailwind)
-<img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width=40px>
 
 # **🗄️ Databases**:
 
