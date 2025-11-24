@@ -4,15 +4,15 @@
 
 **Name**:  Ángel Hernán Alberto patricio Arroyo
 
-**Career**: Software Engineering with artificial intelligence
+**Career**: Software Engineering with Artificial Intelligence
 
-**Age**: 18 years old
+**Age**: 19 years old
 
 **Languages**: English 75% 
 
 **Country**: Peru <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/Perú.png" width=25px>
 
-**Academic Education**: Institute SENATI - 4°Cycle
+**Academic Education**: Institute SENATI - 6°Cycle
 
 📫 **Contact**: **angelhernanpatricioarroyo@gmail.com** <img src="https://skillicons.dev/icons?i=gmail" width=25px>
 
@@ -27,26 +27,29 @@
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> SKILLS:</b>
 
-# **🖥️ Programming Languages I Work With**:
+# **🖥️ Programming Languages**:
 
-![Lenguajes](https://skillicons.dev/icons?i=python,js,java,php)
+![Languages](https://skillicons.dev/icons?i=python,js,java,php)
 
-# **🤖 Front-End Development and DataBases**:
+# **⚙️ Frameworks & Libraries**:
 
-![Front-End](https://skillicons.dev/icons?i=html,css,js,mysql,postgres,mongodb,sqlite)
+![Frameworks](https://skillicons.dev/icons?i=react,nestjs,nodejs,express,django,tailwind)
 <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width=40px>
 
-# **🔧 Tools and Technologies**:
+# **🗄️ Databases**:
 
-![VSCode](https://skillicons.dev/icons?i=vscode,github,git)
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)
 
-# **🖼️ Frameworks**:
+# **Cloud & DevOps**:
 
-![Django](https://skillicons.dev/icons?i=django)
+![Cloud](https://skillicons.dev/icons?i=aws,azure)
 
 # **🛠️ Other tools I know**:
 
 ![Linux](https://skillicons.dev/icons?i=linux,linkedin)
+
+# **🛠️ Tools**
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)
 <img src="https://github.com/AngelHer2005/AngelHer2005/blob/main/recursos/markdown.jpg" width=65px>
 
 <br>
