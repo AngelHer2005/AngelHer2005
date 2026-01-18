@@ -6,7 +6,7 @@
 
 **Career**: Software Engineering with Artificial Intelligence
 
-**Age**: 19 years old
+**Age**: 20 years old
 
 **Languages**: English 75% 
 
